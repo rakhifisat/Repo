@@ -1,11 +1,14 @@
-This is the file outside the folder
-This is the time i changed it
-Third cxhange
-Welcome today
-Welcom again
-Again agian
-see the changes done on the file
-make changes
-changes again
-changessssss
-Modified Again..........
+
+Now i am going to modify the file
+"dear students in this video i have saved the steps to use the git hub and git bash and modify a file in a repository"
+Go through it and ask me if any doubts""  OK!
+
+
+
+
+
+
+
+
+
+
